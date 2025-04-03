@@ -1,0 +1,15 @@
+*   b8e0884 (HEAD -> master, origin/master, origin/HEAD) Merge branch 'master' of https://github.com/marijapantazieva/SI_2025_lab1_233016
+|\
+| *   d89bfcb Merge pull request #11 from marijapantazieva/count-tasks-per-category
+| |\
+| | * 29d3e59 (origin/count-tasks-per-category, count-tasks-per-category) count tasks per category
+| * |   086b7d9 Merge pull request #12 from marijapantazieva/list-tasks-sorted-by-name
+| |\ \
+| | |/
+| |/|
+| | * de2e051 (origin/list-tasks-sorted-by-name, list-tasks-sorted-by-name) list tasks sorted by name
+| |/
+* / b435fd0 (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) remove a task by name
+|/
+* 7f514eb Add starter code
+* c967462 Initial commit
